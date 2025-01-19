@@ -1,72 +1,70 @@
-# hack-CSI-
-AI-Driven Internship Trainer: An AI-powered tool designed to assist industry
-experts in training interns effectively by creating personalized learning pathways,
-real-time feedback, and interactive resources.
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# *Project Name: Collaborative Task Management Tool*
+## Available Scripts
 
-## *Project Overview*
-This project was intended to facilitate collaboration between experts and interns by allowing experts to share tasks, problem statements, and updates seamlessly. The project aimed to integrate backend and frontend technologies for smooth functionality, including AI-based task assistance.
+In the project directory, you can run:
 
-Unfortunately, due to time constraints and challenges, we were unable to complete the final product within the 48-hour hackathon.
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## *Technologies Used*
-### *Backend*
-- *Java Spring Boot*: For building and deploying backend services, including APIs.
-- *OpenAI APIs*: For handling AI-based features like chat completion and task suggestions.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### *Frontend*
-- *ReactJS*: For building the user interface and rendering interactive pages.
-- *HTML/CSS*: For styling and structuring web pages.
+### `npm test`
 
----
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## *Current Status*
-### *Backend*
-- *What Works*:
-  - Basic structure of APIs created using Java Spring Boot.
-  - Connection to AI services (OpenAI API) partially established.
+### `npm run build`
 
-- *Challenges*:
-  - API development is incomplete.
-  - Testing and deploying backend services were delayed due to time constraints.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### *Frontend*
-- *What Works*:
-  - React app structure and a few HTML pages were set up.
-  - Basic components for task management were drafted.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- *Challenges*:
-  - Frontend functionality remains incomplete.
-  - Integration with backend APIs was not achieved within the given time.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
----
+### `npm run eject`
 
-## *Challenges Faced*
-1. *Integration Issues*:
-   - Inability to connect frontend and backend services due to incomplete API development.
-2. *Time Constraints*:
-   - Limited time to debug and test the application.
-3. *Learning Curve*:
-   - Difficulty managing and implementing both frontend and backend technologies efficiently.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
----
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## *Future Plans*
-- Complete the API development in Java Spring Boot.
-- Fully integrate React frontend with the backend services.
-- Optimize the application for better performance and AI capabilities.
-- Conduct thorough testing and debugging to ensure smooth functionality.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
----
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## *Acknowledgments*
-This project was a valuable learning experience. While we couldn’t complete it within the given timeframe, it provided insights into building full-stack applications and overcoming technical challenges. We aim to revisit and complete this project in the future.
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
